@@ -7,4 +7,4 @@ Página desenvolvida do zero, buscando fazer o mais parecido com a página origi
 - CSS
 - JavaScript
 
-![image](https://user-images.githubusercontent.com/23384348/194926889-02eff22f-366b-4476-b6a5-5332df763aca.png)
+![image](https://user-images.githubusercontent.com/23384348/194944351-20cd1a53-3018-4d59-895d-2f91da3b8aa3.png)
